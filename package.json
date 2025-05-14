@@ -1,0 +1,16 @@
+{
+    "name": "packagename",
+    "version": "0.1.0",
+    "authors": [ "yourname" ],
+    "description": "Package description",
+    "license": "AGPL-3.0-or-later",
+    "keywords": [ "default-template" ],
+
+    "entry": "entry.js",
+    "dependencies": {
+        "core": "0.1.0"
+    },
+
+    "repository": null,
+    "homepage": null
+}
