@@ -1,7 +1,7 @@
 {
     "name": "packagename",
     "version": "0.1.0",
-    "authors": [ "yourname" ],
+    "authors": [ "yourname<githubusername>" ],
     "description": "Package description",
     "license": "AGPL-3.0-or-later",
     "keywords": [ "default-template" ],
