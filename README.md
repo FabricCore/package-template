@@ -54,6 +54,6 @@ let packagenameDependent = {
 
 > Include if your package has public functions.
 
-#### packagename.use(param: String) → [PlayerEntity](https://fabriccore.github.io/yarnwrap/build/latest.html?q=entity.player.PlayerEntity)
+#### packagename.use(param: String) → [PlayerEntity](https://yarnwrap.siri.ws/build/latest.html?q=entity.player.PlayerEntity)
 
 Describe what this function does.
